@@ -1,5 +1,5 @@
 # The-Algorithms-Data-Structures-for-Beginners
-The easy to kickstart coding journey.
+An easy way to kickstart coding journey.
 
 - **The Algorithms**
 
